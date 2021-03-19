@@ -1,0 +1,6 @@
+Dockerfile
+.gitignore
+*/**/*_test.go
+LICENSE
+Makefile
+README.md
